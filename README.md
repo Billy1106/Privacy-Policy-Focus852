@@ -45,7 +45,6 @@ Any changes will be reflected in the app listing on the App Store with an update
 
 ## 7. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-
-ryotabilly@gmail.com
+https://forms.gle/FrhUXJgoQsp6UyP1A
 
 ---
